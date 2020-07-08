@@ -7,4 +7,9 @@ class TheLib {
     fun helloFromTestLib(): String {
         return("hello")
     }
+
+    /** hellofromtestlib */
+    fun helloFromTestLib2(): String {
+        return("hello2")
+    }
 }
